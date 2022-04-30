@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "659356e696793bfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c972a1185832fb13",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "A1 - DNTM/A1 - Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes.pdf"
+          }
+        }
+      },
+      {
+        "id": "0ceeafa976c0848b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "A1 - DNTM/A1 - Abstract.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "832b11e3eb129f61",
+    "type": "split",
+    "children": [
+      {
+        "id": "84f3d858f8f367ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6c274279e092571",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "868107820b403473",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6d9b5c75c750bac",
+    "type": "split",
+    "children": [
+      {
+        "id": "f69ef088d0cc21b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10b670d9d401d5fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A1 - DNTM/A1 - Abstract.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0ceeafa976c0848b",
+  "lastOpenFiles": [
+    "A1 - DNTM/A1 - Abstract.md",
+    "A1 - DNTM/A1 - Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes.pdf"
+  ]
+}
