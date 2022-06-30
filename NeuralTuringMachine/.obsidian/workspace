@@ -6,10 +6,11 @@
       {
         "id": "c972a1185832fb13",
         "type": "leaf",
+        "dimension": 58.75850340136054,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A3 - Cold Start/A3 - 1-Introduction.md",
+            "file": "A3 - Cold Start/A3 - 2-Approch.md",
             "mode": "source",
             "source": false
           }
@@ -18,6 +19,7 @@
       {
         "id": "3c35062504610278",
         "type": "leaf",
+        "dimension": 41.24149659863946,
         "state": {
           "type": "pdf",
           "state": {
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A3 - Cold Start/A3 - 1-Introduction.md",
+                "file": "A3 - Cold Start/A3 - 2-Approch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +101,7 @@
   },
   "active": "c972a1185832fb13",
   "lastOpenFiles": [
+    "A3 - Cold Start/A3 - 2-Approch.md",
     "A3 - Cold Start/A3 - 1-Introduction.md",
     "A3 - Cold Start/A3 - 0-Abstract.md",
     "A3 - Cold Start/A3 - Cold start knowledge tracing with attentive neural turing machine.pdf",
@@ -107,7 +110,6 @@
     "A2 - Implementing/A2 - Information.md",
     "Attachments/Pasted image 20220630102240.png",
     "A2 - Implementing/A2 - 2-Neural Turing Machines.md",
-    "A2 - Implementing/A2 - 3-Our Implementation.md",
-    "A2 - Implementing/A2 - 4-Methodology.md"
+    "A2 - Implementing/A2 - 3-Our Implementation.md"
   ]
 }
