@@ -7,21 +7,21 @@
         "id": "c972a1185832fb13",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "A1 - DNTM/A1 - Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes.pdf"
+            "file": "A2 - Implimenting/A2 - 0-Abstract.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
       {
-        "id": "0ceeafa976c0848b",
+        "id": "3c35062504610278",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "A1 - DNTM/A1 - Abstract.md",
-            "mode": "source",
-            "source": false
+            "file": "A2 - Implimenting/A2 - Implementing neural turing machines.pdf"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A1 - DNTM/A1 - Abstract.md",
+                "file": "A2 - Implimenting/A2 - 0-Abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ceeafa976c0848b",
+  "active": "c972a1185832fb13",
   "lastOpenFiles": [
-    "A1 - DNTM/A1 - Abstract.md",
+    "A2 - Implimenting/A2 - 0-Abstract.md",
+    "A1 - DNTM/A1 - 0-Abstract.md",
+    "A2 - Implimenting/A2 - Implementing neural turing machines.pdf",
+    "A2 - Implimenting/A2 - Information.md",
+    "A2 - Implimenting/A2 - 1-Introduction.md",
+    "A1 - DNTM/A1 - Information.md",
+    "A1 - DNTM/A1 - 1-Introduction.md",
+    "A1 - DNTM/A1 - 2-Dynamic Neural Turing Machine.md",
     "A1 - DNTM/A1 - Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes.pdf"
   ]
 }

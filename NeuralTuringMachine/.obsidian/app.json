@@ -2,5 +2,7 @@
   "legacyEditor": false,
   "livePreview": true,
   "rightToLeft": true,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
