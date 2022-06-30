@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A2 - Implimenting/A2 - 1-Introduction.md",
+            "file": "A2 - Implementing/A2 - 2-Neural Turing Machines.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "A2 - Implimenting/A2 - Implementing neural turing machines.pdf"
+            "file": "A2 - Implementing/A2 - Implementing neural turing machines.pdf"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A2 - Implimenting/A2 - 1-Introduction.md",
+                "file": "A2 - Implementing/A2 - 2-Neural Turing Machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +99,12 @@
   },
   "active": "c972a1185832fb13",
   "lastOpenFiles": [
-    "A2 - Implimenting/A2 - 1-Introduction.md",
-    "A2 - Implimenting/A2 - 0-Abstract.md",
+    "A2 - Implementing/A2 - 2-Neural Turing Machines.md",
+    "A2 - Implementing/A2 - Information.md",
+    "A2 - Implementing/A2 - 1-Introduction.md",
+    "A2 - Implementing/A2 - 0-Abstract.md",
     "A1 - DNTM/A1 - 0-Abstract.md",
-    "A2 - Implimenting/A2 - Implementing neural turing machines.pdf",
-    "A2 - Implimenting/A2 - Information.md",
+    "A2 - Implementing/A2 - Implementing neural turing machines.pdf",
     "A1 - DNTM/A1 - Information.md",
     "A1 - DNTM/A1 - 1-Introduction.md",
     "A1 - DNTM/A1 - 2-Dynamic Neural Turing Machine.md",
