@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A2 - Implementing/A2 - 3-Our Implementation.md",
+            "file": "A3 - Cold Start/A3 - 1-Introduction.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "A2 - Implementing/A2 - Implementing neural turing machines.pdf"
+            "file": "A3 - Cold Start/A3 - Cold start knowledge tracing with attentive neural turing machine.pdf"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A2 - Implementing/A2 - 3-Our Implementation.md",
+                "file": "A3 - Cold Start/A3 - 1-Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "c972a1185832fb13",
   "lastOpenFiles": [
-    "A2 - Implementing/A2 - 3-Our Implementation.md",
-    "A2 - Implementing/A2 - 4-Methodology.md",
-    "A2 - Implementing/A2 - 2-Neural Turing Machines.md",
-    "A2 - Implementing/A2 - Information.md",
-    "A2 - Implementing/A2 - 1-Introduction.md",
-    "A2 - Implementing/A2 - 0-Abstract.md",
-    "A1 - DNTM/A1 - 0-Abstract.md",
+    "A3 - Cold Start/A3 - 1-Introduction.md",
+    "A3 - Cold Start/A3 - 0-Abstract.md",
+    "A3 - Cold Start/A3 - Cold start knowledge tracing with attentive neural turing machine.pdf",
     "A2 - Implementing/A2 - Implementing neural turing machines.pdf",
-    "A1 - DNTM/A1 - Information.md",
-    "A1 - DNTM/A1 - 1-Introduction.md"
+    "A3 - Cold Start/A3 - Information.md",
+    "A2 - Implementing/A2 - Information.md",
+    "Attachments/Pasted image 20220630102240.png",
+    "A2 - Implementing/A2 - 2-Neural Turing Machines.md",
+    "A2 - Implementing/A2 - 3-Our Implementation.md",
+    "A2 - Implementing/A2 - 4-Methodology.md"
   ]
 }
