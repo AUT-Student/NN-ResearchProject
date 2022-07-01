@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A1 - DNTM/A1 - 2-Dynamic Neural Turing Machine.md",
+            "file": "A1 - DNTM/A1 - 3-Addressing Mechanism.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A1 - DNTM/A1 - 2-Dynamic Neural Turing Machine.md",
+                "file": "A1 - DNTM/A1 - 3-Addressing Mechanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "3c35062504610278",
   "lastOpenFiles": [
+    "A1 - DNTM/A1 - 3-Addressing Mechanism.md",
     "A1 - DNTM/A1 - 2-Dynamic Neural Turing Machine.md",
     "A1 - DNTM/A1 - 1-Introduction.md",
     "A1 - DNTM/A1 - 0-Abstract.md",
@@ -107,7 +108,6 @@
     "A4 - HyperENTM/A4 - Information.md",
     "A4 - HyperENTM/A4 - 0-Abstract.md",
     "A4 - HyperENTM/A4 - 3-Approach.md",
-    "A4 - HyperENTM/A4 - 2-Background.md",
-    "A4 - HyperENTM/A4 - 1-Introduction.md"
+    "A4 - HyperENTM/A4 - 2-Background.md"
   ]
 }

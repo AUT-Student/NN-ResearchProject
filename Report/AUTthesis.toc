@@ -1,0 +1,9 @@
+\edef \SavedTocDepth {\the \value {tocdepth}}
+\setcounter {tocdepth}{-10}
+\contentsline {chapter}{فهرست اشکال}{ج}{section*.2}%
+\contentsline {chapter}{فهرست جداول}{د}{section*.3}%
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
+\par عنوان\hfill صفحه \par 
+\setcounter {tocdepth}{\SavedTocDepth }
+\contentsline {chapter}{منابع و مراجع}{2}{appendix*.4}%
+\contentsfinish 
