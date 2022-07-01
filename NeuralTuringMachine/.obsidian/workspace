@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A4 - HyperENTM/A4 - 0-Abstract.md",
+            "file": "A4 - HyperENTM/A4 - 1-Introduction.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A4 - HyperENTM/A4 - 0-Abstract.md",
+                "file": "A4 - HyperENTM/A4 - 1-Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "c972a1185832fb13",
   "lastOpenFiles": [
+    "A4 - HyperENTM/A4 - 1-Introduction.md",
     "A4 - HyperENTM/A4 - 0-Abstract.md",
     "A4 - HyperENTM/A4 - HyperENTM Evolving Scalable Neural Turing Machines through HyperNEAT.pdf",
     "A3 - Cold Start/A3 - Cold start knowledge tracing with attentive neural turing machine.pdf",
@@ -109,7 +110,6 @@
     "A3 - Cold Start/A3 - 2-Approch.md",
     "A3 - Cold Start/A3 - 1-Introduction.md",
     "A3 - Cold Start/A3 - 0-Abstract.md",
-    "A2 - Implementing/A2 - Implementing neural turing machines.pdf",
-    "A2 - Implementing/A2 - Information.md"
+    "A2 - Implementing/A2 - Implementing neural turing machines.pdf"
   ]
 }
