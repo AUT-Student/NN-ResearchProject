@@ -4,22 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c972a1185832fb13",
+        "id": "3c35062504610278",
         "type": "leaf",
-        "dimension": 58.75850340136054,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A4 - HyperENTM/A4 - 1-Introduction.md",
+            "file": "A4 - HyperENTM/A4 - 2-Background.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "3c35062504610278",
+        "id": "506a869b05102d0a",
         "type": "leaf",
-        "dimension": 41.24149659863946,
         "state": {
           "type": "pdf",
           "state": {
@@ -81,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A4 - HyperENTM/A4 - 1-Introduction.md",
+                "file": "A4 - HyperENTM/A4 - 2-Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c972a1185832fb13",
+  "active": "3c35062504610278",
   "lastOpenFiles": [
+    "A4 - HyperENTM/A4 - 2-Background.md",
+    "A4 - HyperENTM/A4 - HyperENTM Evolving Scalable Neural Turing Machines through HyperNEAT.pdf",
     "A4 - HyperENTM/A4 - 1-Introduction.md",
     "A4 - HyperENTM/A4 - 0-Abstract.md",
-    "A4 - HyperENTM/A4 - HyperENTM Evolving Scalable Neural Turing Machines through HyperNEAT.pdf",
     "A3 - Cold Start/A3 - Cold start knowledge tracing with attentive neural turing machine.pdf",
     "A4 - HyperENTM/A4 - Information.md",
     "A3 - Cold Start/A3 - Information.md",
     "A3 - Cold Start/A3 - 2-Approch.md",
     "A3 - Cold Start/A3 - 1-Introduction.md",
-    "A3 - Cold Start/A3 - 0-Abstract.md",
-    "A2 - Implementing/A2 - Implementing neural turing machines.pdf"
+    "A3 - Cold Start/A3 - 0-Abstract.md"
   ]
 }
