@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A4 - HyperENTM/A4 - Approch.md",
+            "file": "A1 - DNTM/A1 - 2-Dynamic Neural Turing Machine.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "A4 - HyperENTM/A4 - HyperENTM Evolving Scalable Neural Turing Machines through HyperNEAT.pdf"
+            "file": "A1 - DNTM/A1 - Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes.pdf"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A4 - HyperENTM/A4 - Approch.md",
+                "file": "A1 - DNTM/A1 - 2-Dynamic Neural Turing Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "3c35062504610278",
   "lastOpenFiles": [
-    "A4 - HyperENTM/A4 - Approch.md",
-    "A4 - HyperENTM/A4 - 2-Background.md",
+    "A1 - DNTM/A1 - 2-Dynamic Neural Turing Machine.md",
+    "A1 - DNTM/A1 - 1-Introduction.md",
+    "A1 - DNTM/A1 - 0-Abstract.md",
+    "A1 - DNTM/A1 - Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes.pdf",
     "A4 - HyperENTM/A4 - HyperENTM Evolving Scalable Neural Turing Machines through HyperNEAT.pdf",
-    "A4 - HyperENTM/A4 - 1-Introduction.md",
-    "A4 - HyperENTM/A4 - 0-Abstract.md",
-    "A3 - Cold Start/A3 - Cold start knowledge tracing with attentive neural turing machine.pdf",
     "A4 - HyperENTM/A4 - Information.md",
-    "A3 - Cold Start/A3 - Information.md",
-    "A3 - Cold Start/A3 - 2-Approch.md",
-    "A3 - Cold Start/A3 - 1-Introduction.md"
+    "A4 - HyperENTM/A4 - 0-Abstract.md",
+    "A4 - HyperENTM/A4 - 3-Approach.md",
+    "A4 - HyperENTM/A4 - 2-Background.md",
+    "A4 - HyperENTM/A4 - 1-Introduction.md"
   ]
 }
