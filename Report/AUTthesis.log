@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  2 JUL 2022 16:57
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  2 JUL 2022 18:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1272,12 +1272,6 @@ Overfull \hbox (1.45781pt too wide) in paragraph at lines 77--78
 File: HyperENTM-Substrate.png Graphic file (type bmp)
 <HyperENTM-Substrate.png>
 Missing character: There is no ‌ ("200C) in font cmr10!
-
-LaTeX Warning: Reference `footdir@57' on page 11 undefined on input line 96.
-
-
-LaTeX Warning: Reference `footdir@58' on page 11 undefined on input line 96.
-
 Missing character: There is no ‌ ("200C) in font cmr12!
 
 Underfull \hbox (badness 10000) in paragraph at lines 96--98
@@ -1292,9 +1286,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11])
-
-LaTeX Warning: Reference `footdir@59' on page 12 undefined on input line 59.
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
+[][]
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1305,6 +1300,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [12]
+Missing character: There is no ∗ ("2217) in font cmr12!
+Missing character: There is no − ("2212) in font cmr12!
+Missing character: There is no ∗ ("2217) in font cmr12!
+Missing character: There is no − ("2212) in font cmr8!
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
@@ -1317,7 +1326,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13
+[14
 
 
 
@@ -1335,7 +1344,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14
+[15
 
 
 
@@ -1353,7 +1362,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[15
+[16
 
 
 
@@ -1367,7 +1376,7 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 1
 1.
 
-) [16
+) [17
 
 
 
@@ -1376,22 +1385,16 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 10BA3BB297AC27401EA0C91E4AAE71E2;2634.
+(rerunfilecheck)             Checksum: 75FB1092B4DC40377378491C228A2D98;2833.
  ) 
 Here is how much of TeX's memory you used:
- 17274 strings out of 476533
- 331427 string characters out of 5821545
+ 17286 strings out of 476533
+ 331587 string characters out of 5821545
  778984 words of memory out of 5000000
- 37259 multiletter control sequences out of 15000+600000
+ 37271 multiletter control sequences out of 15000+600000
  412623 words of font info for 98 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,12n,98p,2634b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (22 pages).
+Output written on AUTthesis.pdf (23 pages).

@@ -24,4 +24,15 @@ Merrild, Jakob, Rasmussen, Mikkel~Angaju, and Risi, Sebastian.
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{zhao2020cold}
+Zhao, Jinjin, Bhatt, Shreyansh, Thille, Candace, Gattani, Neelesh, and Zimmaro,
+  Dawn.
+\newblock Cold start knowledge tracing with attentive neural turing machine.
+\newblock In {\em Proceedings of the Seventh ACM Conference on Learning@
+  Scale}, pages 333--336, 2020.
+
+\end{LTRbibitems}
+
 \end{thebibliography}
