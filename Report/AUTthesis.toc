@@ -14,7 +14,9 @@
 \contentsline {section}{\numberline {3-3}ماشین تورینگ عصبی متوجه}{12}{section.3.3}%
 \contentsline {section}{\numberline {3-4}ماشین تورینگ عصبی پویا}{13}{section.3.4}%
 \contentsline {chapter}{\numberline {4}کاربردها}{14}{chapter.4}%
-\contentsline {chapter}{\numberline {5}پیاده‌سازی و نتایج}{15}{chapter.5}%
-\contentsline {chapter}{\numberline {6}جمع‌بندی و نتیجه‌گیری}{16}{chapter.6}%
-\contentsline {chapter}{منابع و مراجع}{17}{appendix*.4}%
+\contentsline {section}{\numberline {4-1}تخمین عمر مفید باقی‌مانده}{15}{section.4.1}%
+\contentsline {chapter}{\numberline {5}پیاده‌سازی و نتایج}{17}{chapter.5}%
+\contentsline {section}{\numberline {5-1}تخمین عمر مفید باقی‌مانده}{18}{section.5.1}%
+\contentsline {chapter}{\numberline {6}جمع‌بندی و نتیجه‌گیری}{19}{chapter.6}%
+\contentsline {chapter}{منابع و مراجع}{20}{appendix*.4}%
 \contentsfinish 

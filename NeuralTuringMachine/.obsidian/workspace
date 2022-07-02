@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A3 - Cold Start/A3 - 2-Approch.md",
+            "file": "A5 - Remaining Usefull Life/A5 - Short Summary.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "A3 - Cold Start/A3 - Cold start knowledge tracing with attentive neural turing machine.pdf"
+            "file": "A5 - Remaining Usefull Life/A5 - A Neural Turing Machine-based approach to Remaining Useful Life Estimation.pdf"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A3 - Cold Start/A3 - 2-Approch.md",
+                "file": "A5 - Remaining Usefull Life/A5 - Short Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "3c35062504610278",
   "lastOpenFiles": [
+    "A5 - Remaining Usefull Life/A5 - Short Summary.md",
     "A3 - Cold Start/A3 - 2-Approch.md",
+    "A5 - Remaining Usefull Life/A5 - A Neural Turing Machine-based approach to Remaining Useful Life Estimation.pdf",
+    "A3 - Cold Start/A3 - Cold start knowledge tracing with attentive neural turing machine.pdf",
     "A3 - Cold Start/A3 - 0-Abstract.md",
     "A4 - HyperENTM/A4 - 3-Approach.md",
-    "A3 - Cold Start/A3 - Cold start knowledge tracing with attentive neural turing machine.pdf",
     "A4 - HyperENTM/A4 - HyperENTM Evolving Scalable Neural Turing Machines through HyperNEAT.pdf",
     "A4 - HyperENTM/A4 - 2-Background.md",
     "A4 - HyperENTM/A4 - 0-Abstract.md",
-    "A2 - Implementing/A2 - Implementing neural turing machines.pdf",
-    "A2 - Implementing/A2 - 4-Methodology.md",
-    "A2 - Implementing/A2 - 2-Neural Turing Machines.md"
+    "A2 - Implementing/A2 - Implementing neural turing machines.pdf"
   ]
 }

@@ -15,6 +15,18 @@ Collier, Mark and Beel, Joeran.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{falcon2020neural}
+Falcon, Alex, D'Agostino, Giovanni, Serra, Giuseppe, Brajnik, Giorgio, and
+  Tasso, Carlo.
+\newblock A neural turing machine-based approach to remaining useful life
+  estimation.
+\newblock In {\em 2020 IEEE International Conference on Prognostics and Health
+  Management (ICPHM)}, pages 1--8. IEEE, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{merrild2018hyperntm}
 Merrild, Jakob, Rasmussen, Mikkel~Angaju, and Risi, Sebastian.
 \newblock Hyperentm: evolving scalable neural turing machines through
