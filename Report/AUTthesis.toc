@@ -6,6 +6,8 @@
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{\numberline {2}ماشین تورینگ عصبی}{2}{chapter.2}%
+\contentsline {section}{\numberline {2-1}ساختار و محاسبات ماشین تورینگ عصبی}{3}{section.2.1}%
+\contentsline {section}{\numberline {2-2}وظایف یادگیری ترتیبی}{5}{section.2.2}%
 \contentsline {chapter}{\numberline {3}توسعه‌های شبکه}{6}{chapter.3}%
 \contentsline {chapter}{\numberline {4}کاربردها}{7}{chapter.4}%
 \contentsline {chapter}{\numberline {5}پیاده‌سازی و نتایج}{8}{chapter.5}%

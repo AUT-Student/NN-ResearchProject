@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  2 JUL 2022 09:14
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  2 JUL 2022 09:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1120,9 +1120,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 8.
+(Font)              scaled to size 9.59998pt on input line 9.
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 8.
+(Font)              scaled to size 11.99997pt on input line 9.
 Missing character: There is no · ("B7) in font cmr12!
 
 
@@ -1137,12 +1137,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Missing character: There is no − ("2212) in font cmr12!
 Missing character: There is no − ("2212) in font cmr8!
 Missing character: There is no − ("2212) in font cmr12!
-
-
-LaTeX Warning: Reference `footdir@9' on page 4 undefined on input line 46.
-
-
-LaTeX Warning: Reference `footdir@10' on page 4 undefined on input line 60.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1249,20 +1243,14 @@ LaTeX Warning: Empty `thebibliography' environment on input line 6.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 0E3FB3DD78F16FA02C3E0B842DA9E259;1335.
+(rerunfilecheck)             Checksum: D27EDA65C20F0264D7CA3C851F934EAE;1877.
  ) 
 Here is how much of TeX's memory you used:
- 17189 strings out of 476533
- 330030 string characters out of 5821545
+ 17200 strings out of 476533
+ 330177 string characters out of 5821545
  773984 words of memory out of 5000000
- 37177 multiletter control sequences out of 15000+600000
+ 37188 multiletter control sequences out of 15000+600000
  411067 words of font info for 91 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,12n,98p,2634b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
