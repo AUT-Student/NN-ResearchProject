@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  2 JUL 2022 20:52
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  3 JUL 2022 20:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1366,7 +1366,11 @@ File: RUL.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-)
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+[][]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1376,6 +1380,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [15]
+File: PSO-NTM-2.png Graphic file (type bmp)
+<PSO-NTM-2.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: PSO-NTM.png Graphic file (type bmp)
+<PSO-NTM.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1385,10 +1401,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [16]
-\openout2 = `chapter5.aux'.
-
- (./chapter5.tex
-فصل 5.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1397,12 +1409,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[17
-
-
-
-
-])
+[17]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1412,10 +1419,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [18]
-\openout2 = `chapter6.aux'.
+\openout2 = `chapter5.aux'.
 
- (./chapter6.tex
-فصل 6.
+ (./chapter5.tex
+فصل 5.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1429,6 +1436,130 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
+]
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[][]\TU/BNazanin.ttf(0)/b/n/12 مجموعه[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[][]\TU/BNazanin.ttf(0)/b/n/12 بردار[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]\TU/BNazanin.ttf(0)/b/n/12 ماشین[]
+ []
+
+
+LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/b/n' undefined
+(Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 3
+5.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[][][]\TU/TimesNewRoman.ttf(0)/b/n/12 k[]\TU/BNazanin.ttf(0)/b/n/12 -[]
+ []
+
+
+Overfull \hbox (6.53247pt too wide) in paragraph at lines 35--35
+[]\TU/BNazanin.ttf(0)/b/n/12 نزدیک‌ترین[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[][]\TU/BNazanin.ttf(0)/b/n/12 بیز[]
+ []
+
+
+Overfull \hbox (4.71841pt too wide) in paragraph at lines 35--35
+[]\TU/BNazanin.ttf(0)/b/n/12 ساده‌لوحانه| []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[][]\TU/BNazanin.ttf(0)/b/n/12 درخت[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[][]\TU/BNazanin.ttf(0)/b/n/12 کامپیوتر[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]\TU/BNazanin.ttf(0)/b/n/12 عصبی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+[][]\TU/BNazanin.ttf(0)/b/n/12 ماتع +[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+[]\TU/BNazanin.ttf(0)/b/n/12 الگوریتم[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+[]\TU/BNazanin.ttf(0)/b/n/12 ازدحام[]
+ []
+
+
+Overfull \hbox (10.63533pt too wide) in paragraph at lines 45--45
+[][][]\TU/TimesNewRoman.ttf(0)/b/n/12 Ionosphere[]| []
+ []
+
+
+Overfull \hbox (55.09438pt too wide) in paragraph at lines 33--50
+ [][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[21]
+\openout2 = `chapter6.aux'.
+
+ (./chapter6.tex
+فصل 6.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[22
+
+
+
+
 ]) (./AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
@@ -1438,7 +1569,7 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 1
 1.
 
-) [20
+) [23
 
 
 
@@ -1448,15 +1579,15 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 32C6A547BD39BF2F09741F501901DDD6;3343.
+(rerunfilecheck)             Checksum: 708CB83E9BAEDB29DF20225806DB0B6E;3597.
  ) 
 Here is how much of TeX's memory you used:
- 17376 strings out of 476533
- 332879 string characters out of 5821545
- 779745 words of memory out of 5000000
- 37355 multiletter control sequences out of 15000+600000
+ 17407 strings out of 476533
+ 333391 string characters out of 5821545
+ 781745 words of memory out of 5000000
+ 37384 multiletter control sequences out of 15000+600000
  412631 words of font info for 99 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,12n,98p,2634b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 93i,13n,98p,2634b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (26 pages).
+Output written on AUTthesis.pdf (29 pages).

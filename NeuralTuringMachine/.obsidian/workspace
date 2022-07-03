@@ -7,21 +7,9 @@
         "id": "3c35062504610278",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "A5 - Remaining Usefull Life/A5 - Short Summary.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "506a869b05102d0a",
-        "type": "leaf",
-        "state": {
           "type": "pdf",
           "state": {
-            "file": "A5 - Remaining Usefull Life/A5 - A Neural Turing Machine-based approach to Remaining Useful Life Estimation.pdf"
+            "file": "A6 - Classifier Task/A6 - A classifier task based on Neural Turing Machine and particle swarm.pdf"
           }
         }
       }
@@ -79,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A5 - Remaining Usefull Life/A5 - Short Summary.md",
+                "file": "A6 - Classifier Task/A6 - A classifier task based on Neural Turing Machine and particle swarm.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +87,7 @@
   },
   "active": "3c35062504610278",
   "lastOpenFiles": [
+    "A6 - Classifier Task/A6 - A classifier task based on Neural Turing Machine and particle swarm.pdf",
     "A5 - Remaining Usefull Life/A5 - Short Summary.md",
     "A3 - Cold Start/A3 - 2-Approch.md",
     "A5 - Remaining Usefull Life/A5 - A Neural Turing Machine-based approach to Remaining Useful Life Estimation.pdf",
@@ -107,7 +96,6 @@
     "A4 - HyperENTM/A4 - 3-Approach.md",
     "A4 - HyperENTM/A4 - HyperENTM Evolving Scalable Neural Turing Machines through HyperNEAT.pdf",
     "A4 - HyperENTM/A4 - 2-Background.md",
-    "A4 - HyperENTM/A4 - 0-Abstract.md",
-    "A2 - Implementing/A2 - Implementing neural turing machines.pdf"
+    "A4 - HyperENTM/A4 - 0-Abstract.md"
   ]
 }

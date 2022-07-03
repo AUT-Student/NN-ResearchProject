@@ -27,6 +27,16 @@ Falcon, Alex, D'Agostino, Giovanni, Serra, Giuseppe, Brajnik, Giorgio, and
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{faradonbe2020classifier}
+Faradonbe, Soroor~Malekmohamadi and Safi-Esfahani, Faramarz.
+\newblock A classifier task based on neural turing machine and particle swarm
+  algorithm.
+\newblock {\em Neurocomputing}, 396:133--152, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{merrild2018hyperntm}
 Merrild, Jakob, Rasmussen, Mikkel~Angaju, and Risi, Sebastian.
 \newblock Hyperentm: evolving scalable neural turing machines through
