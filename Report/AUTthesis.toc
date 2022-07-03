@@ -16,9 +16,11 @@
 \contentsline {chapter}{\numberline {4}کاربردها}{14}{chapter.4}%
 \contentsline {section}{\numberline {4-1}تخمین عمر مفید باقی‌مانده}{15}{section.4.1}%
 \contentsline {section}{\numberline {4-2}دسته‌بندی}{15}{section.4.2}%
+\contentsline {section}{\numberline {4-3}ردیابی دانش}{17}{section.4.3}%
 \contentsline {chapter}{\numberline {5}پیاده‌سازی و نتایج}{19}{chapter.5}%
 \contentsline {section}{\numberline {5-1}تخمین عمر مفید باقی‌مانده}{20}{section.5.1}%
 \contentsline {section}{\numberline {5-2}دسته‌بندی}{20}{section.5.2}%
+\contentsline {section}{\numberline {5-3}ردیابی دانش}{21}{section.5.3}%
 \contentsline {chapter}{\numberline {6}جمع‌بندی و نتیجه‌گیری}{22}{chapter.6}%
 \contentsline {chapter}{منابع و مراجع}{23}{appendix*.4}%
 \contentsfinish 
