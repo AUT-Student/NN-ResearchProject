@@ -27,6 +27,15 @@ Falcon, Alex, D'Agostino, Giovanni, Serra, Giuseppe, Brajnik, Giorgio, and
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{graves2014neural}
+Graves, Alex, Wayne, Greg, and Danihelka, Ivo.
+\newblock Neural turing machines.
+\newblock {\em arXiv preprint arXiv:1410.5401}, 2014.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{gulcehre2018dynamic}
 Gulcehre, Caglar, Chandar, Sarath, Cho, Kyunghyun, and Bengio, Yoshua.
 \newblock Dynamic neural turing machine with continuous and discrete addressing

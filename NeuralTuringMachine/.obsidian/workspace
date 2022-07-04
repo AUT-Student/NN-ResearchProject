@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "A4 - HyperENTM/A4 - HyperENTM Evolving Scalable Neural Turing Machines through HyperNEAT.pdf"
+            "file": "A7 - NTM/Neural Turing Machines.pdf"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A4 - HyperENTM/A4 - HyperENTM Evolving Scalable Neural Turing Machines through HyperNEAT.pdf",
+                "file": "A7 - NTM/Neural Turing Machines.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "3c35062504610278",
   "lastOpenFiles": [
-    "A4 - HyperENTM/A4 - HyperENTM Evolving Scalable Neural Turing Machines through HyperNEAT.pdf",
-    "A1 - DNTM/A1 - Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes.pdf",
-    "A1 - DNTM/A1 - 3-Addressing Mechanism.md",
-    "A1 - DNTM/A1 - 2-Dynamic Neural Turing Machine.md",
-    "A1 - DNTM/A1 - 1-Introduction.md",
-    "A1 - DNTM/A1 - 0-Abstract.md",
-    "A3 - Cold Start/A3 - Cold start knowledge tracing with attentive neural turing machine.pdf",
-    "A4 - HyperENTM/A4 - 3-Approach.md",
-    "A3 - Cold Start/A3 - 2-Approch.md",
-    "A3 - Cold Start/A3 - 1-Introduction.md"
+    "A7 - NTM/Neural Turing Machines.pdf",
+    "A5 - Remaining Usefull Life/A5 - A Neural Turing Machine-based approach to Remaining Useful Life Estimation.pdf",
+    "A4 - HyperENTM/A4 - 1-Introduction.md",
+    "A4 - HyperENTM/A4 - 0-Abstract.md",
+    "A3 - Cold Start/A3 - 1-Introduction.md",
+    "A3 - Cold Start/A3 - 0-Abstract.md",
+    "A2 - Implementing/A2 - Information.md",
+    "A2 - Implementing/A2 - 4-Methodology.md",
+    "A2 - Implementing/A2 - 3-Our Implementation.md",
+    "A2 - Implementing/A2 - 1-Introduction.md"
   ]
 }

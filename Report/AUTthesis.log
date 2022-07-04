@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  4 JUL 2022 19:14
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  4 JUL 2022 22:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1153,8 +1153,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 5.
-)
+(Font)              scaled to size 11.99997pt on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+[][]
+ []
+
+
+LaTeX Warning: Citation `graves2014neural' on page 2 undefined on input line 18
+.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+[][]
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1164,6 +1187,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+[][]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
@@ -1178,7 +1228,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3
+[5
 
 
 
@@ -1197,7 +1247,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4]
+[6]
 Missing character: There is no − ("2212) in font cmr12!
 Missing character: There is no − ("2212) in font cmr8!
 Missing character: There is no − ("2212) in font cmr12!
@@ -1210,7 +1260,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5])
+[7])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1219,7 +1269,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6]
+[8]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
@@ -1232,7 +1282,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7
+[9
 
 
 
@@ -1259,7 +1309,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8]
+[10]
 Missing character: There is no − ("2212) in font cmr12!
 
 Underfull \hbox (badness 10000) in paragraph at lines 31--33
@@ -1279,7 +1329,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 37--40
 [][]
  []
@@ -1314,7 +1364,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10]
+[12]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1323,7 +1373,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11]
+[13]
 Overfull \hbox (1.45781pt too wide) in paragraph at lines 77--78
 [][]\TU/BNazanin.ttf(0)/b/n/12 کنترل‌گر‌های ماشین تورینگ: خروجی‌های کنترل مخصوص
  ماشین تورینگ یعنی پرش، درون‌یابی[]
@@ -1346,7 +1396,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[12]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 107--109
 [][]
  []
@@ -1359,7 +1409,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13]
+[15]
 Missing character: There is no ∗ ("2217) in font cmr12!
 Missing character: There is no − ("2212) in font cmr12!
 Missing character: There is no ∗ ("2217) in font cmr12!
@@ -1373,25 +1423,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[15]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [16]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 193--195
 [][]
  []
@@ -1414,7 +1464,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[17]
+[19]
 Missing character: There is no ـ ("640) in font cmmi12!
 
 
@@ -1425,7 +1475,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[18]
+[20]
 Missing character: There is no ‌ (U+200C) in font [Times New Roman.ttf]/OT:lang
 uage=dflt;mapping=tex-text;!
 
@@ -1437,7 +1487,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[19])
+[21])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1446,7 +1496,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[20]
+[22]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
@@ -1459,7 +1509,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[21
+[23
 
 
 
@@ -1492,7 +1542,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[22]
+[24]
 File: PSO-NTM-2.png Graphic file (type bmp)
 <PSO-NTM-2.png>
 
@@ -1517,7 +1567,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[23]
+[25]
 Underfull \hbox (badness 10000) in paragraph at lines 53--55
 [][]
  []
@@ -1530,25 +1580,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[24]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[25])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [26]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[27])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[28]
 \openout2 = `chapter5.aux'.
 
  (./chapter5.tex
@@ -1561,7 +1611,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[27
+[29
 
 
 
@@ -1672,7 +1722,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[28]
+[30]
 File: ANTM-Results.png Graphic file (type bmp)
 <ANTM-Results.png>
 
@@ -1680,7 +1730,7 @@ File: ANTM-Results.png Graphic file (type bmp)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Citation `Gulcehre' on page 29 undefined on input line 82.
+LaTeX Warning: Citation `Gulcehre' on page 31 undefined on input line 82.
 
 )
 
@@ -1691,7 +1741,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[29]
+[31]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1700,7 +1750,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[30]
+[32]
 \openout2 = `chapter6.aux'.
 
  (./chapter6.tex
@@ -1713,7 +1763,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[31
+[33
 
 
 
@@ -1727,15 +1777,24 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 1
 1.
 
-) [32
+[34
 
 
 
-]
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[35]
 \openout2 = `dicfa2en.aux'.
 
  (./dicfa2en.tex
-Overfull \hbox (5.2936pt too wide) in paragraph at lines 44--44
+Overfull \hbox (5.2936pt too wide) in paragraph at lines 46--46
 [][]\TU/TimesNewRoman.ttf(0)/m/it/12 Neuroevolution of Augmenting Topologies[] 
 []
  []
@@ -1744,7 +1803,7 @@ Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
 b;language=dflt;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
 b;language=dflt;mapping=persian-tex-text;!
-[33
+[36
 
 
 ]
@@ -1753,51 +1812,6 @@ b;language=dflt;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
 b;language=dflt;mapping=persian-tex-text;!
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[34]
-Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
-Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[35])
-\openout2 = `dicen2fa.aux'.
-
- (./dicen2fa.tex
-Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
-Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
- [36
-
-
-
-
-]
-Overfull \hbox (5.2936pt too wide) in paragraph at lines 108--108
-[][]\TU/TimesNewRoman.ttf(0)/m/it/12 Neuroevolution of Augmenting Topologies[] 
-[]
- []
-
-Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
-Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1811,6 +1825,51 @@ Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
 b;language=dflt;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
 b;language=dflt;mapping=persian-tex-text;!
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[38])
+\openout2 = `dicen2fa.aux'.
+
+ (./dicen2fa.tex
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+ [39
+
+
+
+
+]
+Overfull \hbox (5.2936pt too wide) in paragraph at lines 115--115
+[][]\TU/TimesNewRoman.ttf(0)/m/it/12 Neuroevolution of Augmenting Topologies[] 
+[]
+ []
+
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[40]
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
 )
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1820,7 +1879,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[38] (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
+[41] (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
 (./chapter4.aux) (./chapter5.aux) (./chapter6.aux) (./dicfa2en.aux)
 (./dicen2fa.aux))
 
@@ -1829,16 +1888,19 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
 (rerunfilecheck)             Checksum: A9EFA314FC1FC1B7CE77E6D738FA0E89;5622.
  ) 
 Here is how much of TeX's memory you used:
- 17514 strings out of 476533
- 335087 string characters out of 5821545
+ 17539 strings out of 476533
+ 335460 string characters out of 5821545
  784745 words of memory out of 5000000
- 37471 multiletter control sequences out of 15000+600000
+ 37496 multiletter control sequences out of 15000+600000
  412639 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,13n,98p,2634b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 93i,13n,98p,2634b,543s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (45 pages).
+Output written on AUTthesis.pdf (48 pages).
