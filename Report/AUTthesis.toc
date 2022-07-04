@@ -2,25 +2,30 @@
 \setcounter {tocdepth}{-10}
 \contentsline {chapter}{فهرست اشکال}{ج}{section*.2}%
 \contentsline {chapter}{فهرست جداول}{د}{section*.3}%
-\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
-\contentsline {chapter}{\numberline {2}ماشین تورینگ عصبی}{2}{chapter.2}%
-\contentsline {section}{\numberline {2-1}ساختار و محاسبات ماشین تورینگ عصبی}{3}{section.2.1}%
-\contentsline {section}{\numberline {2-2}وظایف یادگیری ترتیبی}{5}{section.2.2}%
-\contentsline {chapter}{\numberline {3}افزونه‌ها}{6}{chapter.3}%
-\contentsline {section}{\numberline {3-1}ماشین تورینگ عصبی تکاملی}{7}{section.3.1}%
-\contentsline {section}{\numberline {3-2}ماشین تورینگ عصبی ابر تکاملی}{8}{section.3.2}%
-\contentsline {section}{\numberline {3-3}ماشین تورینگ عصبی متوجه}{12}{section.3.3}%
-\contentsline {section}{\numberline {3-4}ماشین تورینگ عصبی پویا}{13}{section.3.4}%
-\contentsline {chapter}{\numberline {4}کاربردها}{14}{chapter.4}%
-\contentsline {section}{\numberline {4-1}تخمین عمر مفید باقی‌مانده}{15}{section.4.1}%
-\contentsline {section}{\numberline {4-2}دسته‌بندی}{15}{section.4.2}%
-\contentsline {section}{\numberline {4-3}ردیابی دانش}{17}{section.4.3}%
-\contentsline {chapter}{\numberline {5}پیاده‌سازی و نتایج}{19}{chapter.5}%
-\contentsline {section}{\numberline {5-1}تخمین عمر مفید باقی‌مانده}{20}{section.5.1}%
-\contentsline {section}{\numberline {5-2}دسته‌بندی}{20}{section.5.2}%
-\contentsline {section}{\numberline {5-3}ردیابی دانش}{21}{section.5.3}%
-\contentsline {chapter}{\numberline {6}جمع‌بندی و نتیجه‌گیری}{22}{chapter.6}%
-\contentsline {chapter}{منابع و مراجع}{23}{appendix*.4}%
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}ماشین تورینگ عصبی}{3}{chapter.2}%
+\contentsline {section}{\numberline {2-1}ساختار و محاسبات ماشین تورینگ عصبی}{4}{section.2.1}%
+\contentsline {section}{\numberline {2-2}وظایف یادگیری ترتیبی}{6}{section.2.2}%
+\contentsline {chapter}{\numberline {3}افزونه‌ها}{7}{chapter.3}%
+\contentsline {section}{\numberline {3-1}ماشین تورینگ عصبی تکاملی}{8}{section.3.1}%
+\contentsline {section}{\numberline {3-2}ماشین تورینگ عصبی ابر تکاملی}{9}{section.3.2}%
+\contentsline {section}{\numberline {3-3}ماشین تورینگ عصبی متوجه}{13}{section.3.3}%
+\contentsline {section}{\numberline {3-4}ماشین تورینگ عصبی پویا}{15}{section.3.4}%
+\contentsline {subsection}{\numberline {3-4-1}معماری ماشین تورینگ عصبی پویا}{15}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3-4-2}مکانیسم آدرس‌دهی}{18}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3-4-3}آموزش}{19}{subsection.3.4.3}%
+\contentsline {chapter}{\numberline {4}کاربردها}{21}{chapter.4}%
+\contentsline {section}{\numberline {4-1}تخمین عمر مفید باقی‌مانده}{22}{section.4.1}%
+\contentsline {section}{\numberline {4-2}دسته‌بندی}{22}{section.4.2}%
+\contentsline {section}{\numberline {4-3}ردیابی دانش}{23}{section.4.3}%
+\contentsline {chapter}{\numberline {5}پیاده‌سازی و نتایج}{26}{chapter.5}%
+\contentsline {section}{\numberline {5-1}تخمین عمر مفید باقی‌مانده}{27}{section.5.1}%
+\contentsline {section}{\numberline {5-2}دسته‌بندی}{27}{section.5.2}%
+\contentsline {section}{\numberline {5-3}ردیابی دانش}{28}{section.5.3}%
+\contentsline {chapter}{\numberline {6}جمع‌بندی و نتیجه‌گیری}{29}{chapter.6}%
+\contentsline {chapter}{منابع و مراجع}{30}{appendix*.4}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{31}{appendix*.5}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{33}{appendix*.6}%
 \contentsfinish 

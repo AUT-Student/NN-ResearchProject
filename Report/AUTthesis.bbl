@@ -27,8 +27,18 @@ Falcon, Alex, D'Agostino, Giovanni, Serra, Giuseppe, Brajnik, Giorgio, and
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{gulcehre2018dynamic}
+Gulcehre, Caglar, Chandar, Sarath, Cho, Kyunghyun, and Bengio, Yoshua.
+\newblock Dynamic neural turing machine with continuous and discrete addressing
+  schemes.
+\newblock {\em Neural computation}, 30(4):857--884, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{faradonbe2020classifier}
-Faradonbe, Soroor~Malekmohamadi and Safi-Esfahani, Faramarz.
+Malekmohamadi~Faradonbe, Soroor and Safi-Esfahani, Faramarz.
 \newblock A classifier task based on neural turing machine and particle swarm
   algorithm.
 \newblock {\em Neurocomputing}, 396:133--152, 2020.

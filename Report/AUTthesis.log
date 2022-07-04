@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  3 JUL 2022 22:46
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  4 JUL 2022 16:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -907,7 +907,8 @@ LaTeX Warning: Unused global option(s):
     [oneside,12pt].
 
 (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
-(./chapter4.aux) (./chapter5.aux) (./chapter6.aux))
+(./chapter4.aux) (./chapter5.aux) (./chapter6.aux) (./dicfa2en.aux)
+(./dicen2fa.aux))
 \openout1 = `AUTthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -921,8 +922,7 @@ LaTeX Font Info:    ... okay on input line 32.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
 2.
-
-(c:/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
+ (c:/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 32.
@@ -1045,12 +1045,12 @@ LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
 (Font)              scaled to size 24.88794pt on input line 7.
  (./AUTthesis.toc
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 8.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
+(Font)              scaled to size 14.39996pt on input line 7.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
  (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
 
 (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1090,6 +1090,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4
 
+]) (./list-of-symbols.tex
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 9.59998pt on input line 13.
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 7.19998pt on input line 13.
+LaTeX Font Info:    Trying to load font information for U+euf on input line 28.
+
+
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+Underfull \hbox (badness 10000) in paragraph at lines 13--68
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--68
+[][]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5
+
+
 ])
 \openout2 = `chapter1.aux'.
 
@@ -1116,9 +1147,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1
 
 
+]
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 11.99997pt on input line 5.
+)
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-])
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
@@ -1133,17 +1174,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2
+[3
 
 
 
 
 ]
-LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 9.
-LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 9.
-
 Underfull \hbox (badness 10000) in paragraph at lines 9--11
 [][]
  []
@@ -1157,7 +1193,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3]
+[4]
 Missing character: There is no − ("2212) in font cmr12!
 Missing character: There is no − ("2212) in font cmr8!
 Missing character: There is no − ("2212) in font cmr12!
@@ -1170,7 +1206,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4])
+[5])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1179,7 +1215,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5]
+[6]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
@@ -1192,7 +1228,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6
+[7
 
 
 
@@ -1215,7 +1251,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7]
+[8]
 Missing character: There is no − ("2212) in font cmr12!
 Missing character: There is no · ("B7) in font cmr12!
 Missing character: There is no − ("2212) in font cmr12!
@@ -1239,7 +1275,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8]
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 37--40
 [][]
  []
@@ -1274,7 +1310,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9]
+[10]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1283,7 +1319,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10]
+[11]
 Overfull \hbox (1.45781pt too wide) in paragraph at lines 77--78
 [][]\TU/BNazanin.ttf(0)/b/n/12 کنترل‌گر‌های ماشین تورینگ: خروجی‌های کنترل مخصوص
  ماشین تورینگ یعنی پرش، درون‌یابی[]
@@ -1306,7 +1342,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11]
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 108--110
 [][]
  []
@@ -1319,12 +1355,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[12]
+[13]
 Missing character: There is no ∗ ("2217) in font cmr12!
 Missing character: There is no − ("2212) in font cmr12!
 Missing character: There is no ∗ ("2217) in font cmr12!
 Missing character: There is no − ("2212) in font cmr8!
-)
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1333,7 +1369,80 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13]
+[14]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
+[][]
+ []
+
+File: DNTM.png Graphic file (type bmp)
+<DNTM.png>
+
+Overfull \hbox (15.44353pt too wide) in paragraph at lines 210--211
+[]\TU/BNazanin.ttf(0)/b/n/12 لاجیتس[][][][][][][][][][][][] آدرس‌دهی $\OML/cmm/
+m/it/12 z[]\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 i\OT1/cmr/m/n/12 ]$ \TU/BNazanin.t
+tf(0)/b/n/12 حاصل می‌شود. در این رابطه $\OML/cmm/m/it/12 S$\TU/BNazanin.ttf(0)/
+b/n/12 ‌ یک رابطه شباهت مانند شباهت کسینوسی(رابطه[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17]
+Missing character: There is no ـ ("640) in font cmmi12!
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18]
+Missing character: There is no ‌ (U+200C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
@@ -1346,7 +1455,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14
+[21
 
 
 
@@ -1379,7 +1488,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[15]
+[22]
 File: PSO-NTM-2.png Graphic file (type bmp)
 <PSO-NTM-2.png>
 
@@ -1399,7 +1508,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[16])
+[23])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1408,7 +1517,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[17]
+[24]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1417,7 +1526,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[18]
+[25]
 \openout2 = `chapter5.aux'.
 
  (./chapter5.tex
@@ -1430,7 +1539,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[19
+[26
 
 
 
@@ -1534,12 +1643,6 @@ Overfull \hbox (4.94487pt too wide) in paragraph at lines 45--45
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `footdir@98' on page 20 undefined on input line 56.
-
-
-LaTeX Warning: Reference `footdir@99' on page 20 undefined on input line 58.
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1547,12 +1650,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[20]
+[27]
 File: ANTM-Results.png Graphic file (type bmp)
 <ANTM-Results.png>
 )
 
-LaTeX Warning: Reference `footdir@100' on page 21 undefined on input line 61.
+LaTeX Warning: Reference `footdir@124' on page 28 undefined on input line 61.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1562,7 +1665,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[21]
+[28]
 \openout2 = `chapter6.aux'.
 
  (./chapter6.tex
@@ -1575,7 +1678,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[22
+[29
 
 
 
@@ -1589,12 +1692,65 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 1
 1.
 
-) [23
+) [30
 
 
 
-] (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
-(./chapter4.aux) (./chapter5.aux) (./chapter6.aux))
+]
+\openout2 = `dicfa2en.aux'.
+
+ (./dicfa2en.tex
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+ [31
+
+
+]
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[32])
+\openout2 = `dicen2fa.aux'.
+
+ (./dicen2fa.tex
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+ [33
+
+
+
+
+]
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[34] (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
+(./chapter4.aux) (./chapter5.aux) (./chapter6.aux) (./dicfa2en.aux)
+(./dicen2fa.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1605,15 +1761,15 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: C4E1EE6BA6C26F34B655AE32E0DDF442;3883.
+(rerunfilecheck)             Checksum: EC80355746D9A1633C2FC84A08307508;5009.
  ) 
 Here is how much of TeX's memory you used:
- 17426 strings out of 476533
- 333705 string characters out of 5821545
+ 17523 strings out of 476533
+ 335265 string characters out of 5821545
  782745 words of memory out of 5000000
- 37402 multiletter control sequences out of 15000+600000
- 412631 words of font info for 99 fonts, out of 8000000 for 9000
+ 37474 multiletter control sequences out of 15000+600000
+ 414291 words of font info for 107 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,13n,98p,2634b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 93i,13n,98p,2634b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (29 pages).
+Output written on AUTthesis.pdf (41 pages).
