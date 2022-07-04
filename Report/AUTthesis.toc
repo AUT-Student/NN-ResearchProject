@@ -16,16 +16,19 @@
 \contentsline {subsection}{\numberline {3-4-1}معماری ماشین تورینگ عصبی پویا}{15}{subsection.3.4.1}%
 \contentsline {subsection}{\numberline {3-4-2}مکانیسم آدرس‌دهی}{18}{subsection.3.4.2}%
 \contentsline {subsection}{\numberline {3-4-3}آموزش}{19}{subsection.3.4.3}%
-\contentsline {chapter}{\numberline {4}کاربردها}{21}{chapter.4}%
+\contentsline {chapter}{\numberline {4}کاربردهای واقعی}{21}{chapter.4}%
 \contentsline {section}{\numberline {4-1}تخمین عمر مفید باقی‌مانده}{22}{section.4.1}%
 \contentsline {section}{\numberline {4-2}دسته‌بندی}{22}{section.4.2}%
-\contentsline {section}{\numberline {4-3}ردیابی دانش}{23}{section.4.3}%
-\contentsline {chapter}{\numberline {5}پیاده‌سازی و نتایج}{26}{chapter.5}%
-\contentsline {section}{\numberline {5-1}تخمین عمر مفید باقی‌مانده}{27}{section.5.1}%
-\contentsline {section}{\numberline {5-2}دسته‌بندی}{27}{section.5.2}%
-\contentsline {section}{\numberline {5-3}ردیابی دانش}{28}{section.5.3}%
-\contentsline {chapter}{\numberline {6}جمع‌بندی و نتیجه‌گیری}{29}{chapter.6}%
-\contentsline {chapter}{منابع و مراجع}{30}{appendix*.4}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{31}{appendix*.5}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{33}{appendix*.6}%
+\contentsline {section}{\numberline {4-3}ردیابی دانش}{24}{section.4.3}%
+\contentsline {section}{\numberline {4-4}پاسخ دوره‌ای به سوالات}{26}{section.4.4}%
+\contentsline {section}{\numberline {4-5}استنتاج زبان طبیعی}{26}{section.4.5}%
+\contentsline {chapter}{\numberline {5}نتایج}{27}{chapter.5}%
+\contentsline {section}{\numberline {5-1}تخمین عمر مفید باقی‌مانده}{28}{section.5.1}%
+\contentsline {section}{\numberline {5-2}دسته‌بندی}{28}{section.5.2}%
+\contentsline {section}{\numberline {5-3}ردیابی دانش}{29}{section.5.3}%
+\contentsline {section}{\numberline {5-4}پاسخ به سوالات دوره‌ای}{29}{section.5.4}%
+\contentsline {chapter}{\numberline {6}جمع‌بندی و نتیجه‌گیری}{31}{chapter.6}%
+\contentsline {chapter}{منابع و مراجع}{32}{appendix*.4}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{33}{appendix*.5}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{36}{appendix*.6}%
 \contentsfinish 
