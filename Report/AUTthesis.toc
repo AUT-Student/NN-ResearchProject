@@ -28,8 +28,8 @@
 \contentsline {section}{\numberline {5-1}تخمین عمر مفید باقی‌مانده}{31}{section.5.1}%
 \contentsline {section}{\numberline {5-2}دسته‌بندی}{31}{section.5.2}%
 \contentsline {section}{\numberline {5-3}ردیابی دانش}{32}{section.5.3}%
-\contentsline {chapter}{\numberline {6}جمع‌بندی و نتیجه‌گیری}{34}{chapter.6}%
-\contentsline {chapter}{منابع و مراجع}{35}{appendix*.4}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{37}{appendix*.5}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{40}{appendix*.6}%
+\contentsline {chapter}{\numberline {6}جمع‌بندی}{34}{chapter.6}%
+\contentsline {chapter}{منابع و مراجع}{36}{appendix*.4}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{38}{appendix*.5}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{41}{appendix*.6}%
 \contentsfinish 

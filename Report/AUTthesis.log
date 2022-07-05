@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  5 JUL 2022 22:34
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  5 JUL 2022 22:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1810,7 +1810,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
-]) (./AUTthesis.bbl
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+[][]
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[35] (./AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
@@ -1819,7 +1848,7 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 1
 1.
 
-[35
+[36
 
 
 
@@ -1832,7 +1861,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[36]
+[37]
 \openout2 = `dicfa2en.aux'.
 
  (./dicfa2en.tex
@@ -1845,7 +1874,7 @@ Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
 b;language=dflt;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
 b;language=dflt;mapping=persian-tex-text;!
-[37
+[38
 
 
 ]
@@ -1862,7 +1891,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[38]
+[39]
 Missing character: There is no H (U+0048) in font [B Nazanin.ttf]/OT:script=ara
 b;language=dflt;mapping=persian-tex-text;!
 Missing character: There is no i (U+0069) in font [B Nazanin.ttf]/OT:script=ara
@@ -1916,7 +1945,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[39])
+[40])
 \openout2 = `dicen2fa.aux'.
 
  (./dicen2fa.tex
@@ -1924,7 +1953,7 @@ Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
 b;language=dflt;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
 b;language=dflt;mapping=persian-tex-text;!
- [40
+ [41
 
 
 
@@ -1947,7 +1976,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[41]
+[42]
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
 b;language=dflt;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
@@ -1961,7 +1990,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[42] (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
+[43] (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
 (./chapter4.aux) (./chapter5.aux) (./chapter6.aux) (./dicfa2en.aux)
 (./dicen2fa.aux))
 
@@ -1973,8 +2002,8 @@ Package rerunfilecheck Warning: File `AUTthesis.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `AUTthesis.out':
-(rerunfilecheck)             Before: 1A745AA2692BA64751DA910EADA1A1CC;6290
-(rerunfilecheck)             After:  F62E8D795C5AC7D6DBAD98EC3F4B8BEA;6059.
+(rerunfilecheck)             Before: F62E8D795C5AC7D6DBAD98EC3F4B8BEA;6059
+(rerunfilecheck)             After:  54F5EB903F7F67650AF33D062C57CDE1;5955.
  ) 
 Here is how much of TeX's memory you used:
  17572 strings out of 476533
@@ -1985,4 +2014,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  93i,13n,98p,2634b,543s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (50 pages).
+Output written on AUTthesis.pdf (51 pages).

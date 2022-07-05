@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "A1 - DNTM/A1 - Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes.pdf"
+            "file": "A6 - Classifier Task/A6 - A classifier task based on Neural Turing Machine and particle swarm.pdf"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A1 - DNTM/A1 - Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes.pdf",
+                "file": "A6 - Classifier Task/A6 - A classifier task based on Neural Turing Machine and particle swarm.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "3c35062504610278",
   "lastOpenFiles": [
+    "A6 - Classifier Task/A6 - A classifier task based on Neural Turing Machine and particle swarm.pdf",
     "A1 - DNTM/A1 - Dynamic Neural Turing Machine with Continuous and Discrete Addressing Schemes.pdf",
     "A3 - Cold Start/A3 - Cold start knowledge tracing with attentive neural turing machine.pdf",
     "A4 - HyperENTM/A4 - 0-Abstract.md",
@@ -95,7 +96,6 @@
     "A7 - NTM/Neural Turing Machines.pdf",
     "A5 - Remaining Usefull Life/A5 - A Neural Turing Machine-based approach to Remaining Useful Life Estimation.pdf",
     "A4 - HyperENTM/A4 - 1-Introduction.md",
-    "A3 - Cold Start/A3 - 1-Introduction.md",
-    "A3 - Cold Start/A3 - 0-Abstract.md"
+    "A3 - Cold Start/A3 - 1-Introduction.md"
   ]
 }
