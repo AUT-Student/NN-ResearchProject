@@ -11,14 +11,13 @@ The style file: plain-fa.bst
 A level-1 auxiliary file: dicfa2en.aux
 A level-1 auxiliary file: dicen2fa.aux
 Database file #1: references.bib
-Warning--I didn't find a database entry for "Gulcehre"
 -- plain-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
 You've used 7 entries,
             2546 wiz_defined-function locations,
-            676 strings with 6743 characters,
+            674 strings with 6727 characters,
 and the built_in function-call counts, 3249 in all, are:
 = -- 302
 > -- 141
@@ -57,4 +56,3 @@ warning$ -- 0
 while$ -- 30
 width$ -- 8
 write$ -- 105
-(There was 1 warning)

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  5 JUL 2022 22:56
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  5 JUL 2022 23:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1892,46 +1892,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [39]
-Missing character: There is no H (U+0048) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
-Missing character: There is no i (U+0069) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
-Missing character: There is no d (U+0064) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
-Missing character: There is no d (U+0064) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
-Missing character: There is no e (U+0065) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
-Missing character: There is no S (U+0053) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
-Missing character: There is no t (U+0074) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
-Missing character: There is no a (U+0061) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
-Missing character: There is no t (U+0074) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
-Missing character: There is no e (U+0065) in font [B Nazanin.ttf]/OT:script=ara
-b;language=dflt;mapping=persian-tex-text;!
-Missing character: There is no و (U+0648) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ض (U+0636) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ع (U+0639) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ی (U+06CC) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ت (U+062A) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no م (U+0645) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no خ (U+062E) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ف (U+0641) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
-Missing character: There is no ی (U+06CC) in font [Times New Roman.ttf]/OT:lang
-uage=dflt;mapping=tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
 b;language=dflt;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
@@ -1996,14 +1956,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `AUTthesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `AUTthesis.out':
-(rerunfilecheck)             Before: F62E8D795C5AC7D6DBAD98EC3F4B8BEA;6059
-(rerunfilecheck)             After:  54F5EB903F7F67650AF33D062C57CDE1;5955.
+Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
+(rerunfilecheck)             Checksum: 8DFAA6C72A24537E603818079D738D66;5939.
  ) 
 Here is how much of TeX's memory you used:
  17572 strings out of 476533
