@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  5 JUL 2022 21:59
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.5)  5 JUL 2022 22:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1084,11 +1084,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4
 
-] (./AUTthesis.lot
-
-LaTeX Warning: Citation `Gulcehre' on page ه undefined on input line 9.
-
-)
+] (./AUTthesis.lot)
 \tf@lot=\write7
 \openout7 = `AUTthesis.lot'.
 
@@ -1665,102 +1661,107 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 27--29
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
 [][]\TU/BNazanin.ttf(0)/b/n/12 مجموعه[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
 [][]\TU/BNazanin.ttf(0)/b/n/12 ماشین[]
  []
 
 
-Overfull \hbox (4.75797pt too wide) in paragraph at lines 35--35
+Overfull \hbox (4.75797pt too wide) in paragraph at lines 37--37
 []\TU/BNazanin.ttf(0)/b/n/12 پشتیبان| []
  []
 
 
 LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/b/n' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 3
-5.
+7.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
 [][][]\TU/TimesNewRoman.ttf(0)/b/n/12 k[]\TU/BNazanin.ttf(0)/b/n/12 -[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
 []\TU/BNazanin.ttf(0)/b/n/12 نزدیک[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
 []\TU/BNazanin.ttf(0)/b/n/12 ترین[]
  []
 
 
-Overfull \hbox (1.67125pt too wide) in paragraph at lines 35--35
+Overfull \hbox (1.67125pt too wide) in paragraph at lines 37--37
 []\TU/BNazanin.ttf(0)/b/n/12 همسایه| []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
 [][]\TU/BNazanin.ttf(0)/b/n/12 بیز[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
 []\TU/BNazanin.ttf(0)/b/n/12 ساده[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
 [][]\TU/BNazanin.ttf(0)/b/n/12 درخت[]
  []
 
 
-Overfull \hbox (0.7057pt too wide) in paragraph at lines 35--35
+Overfull \hbox (0.7057pt too wide) in paragraph at lines 37--37
 [][][]\TU/TimesNewRoman.ttf(0)/b/n/12 LSTM[]| []
  []
 
 
-Overfull \hbox (4.82828pt too wide) in paragraph at lines 35--35
+Overfull \hbox (4.82828pt too wide) in paragraph at lines 37--37
 [][]\TU/BNazanin.ttf(0)/b/n/12 کامپیوتر[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
 []\TU/BNazanin.ttf(0)/b/n/12 عصبی[]
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 35--37
+Underfull \hbox (badness 1052) in paragraph at lines 37--39
 [][]\TU/BNazanin.ttf(0)/b/n/12 ماتع +[]
  []
 
 
-Overfull \hbox (4.04077pt too wide) in paragraph at lines 35--37
+Overfull \hbox (4.04077pt too wide) in paragraph at lines 37--39
 []\TU/BNazanin.ttf(0)/b/n/12 الگوریتم[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--37
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
 []\TU/BNazanin.ttf(0)/b/n/12 ازدحام[]
  []
 
 
-Overfull \hbox (4.94487pt too wide) in paragraph at lines 45--45
+Overfull \hbox (4.94487pt too wide) in paragraph at lines 47--47
 [][][]\TU/TimesNewRoman.ttf(0)/b/n/12 Ionosphere[]| []
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+[][]
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1771,16 +1772,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [31]
-File: ANTM-Results.png Graphic file (type bmp)
-<ANTM-Results.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Citation `Gulcehre' on page 32 undefined on input line 82.
-
-)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1790,6 +1781,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [32]
+File: ANTM-Results.png Graphic file (type bmp)
+<ANTM-Results.png>
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1974,10 +1968,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were undefined references.
+Package rerunfilecheck Warning: File `AUTthesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 1A745AA2692BA64751DA910EADA1A1CC;6290.
+Package rerunfilecheck Info: Checksums for `AUTthesis.out':
+(rerunfilecheck)             Before: 1A745AA2692BA64751DA910EADA1A1CC;6290
+(rerunfilecheck)             After:  F62E8D795C5AC7D6DBAD98EC3F4B8BEA;6059.
  ) 
 Here is how much of TeX's memory you used:
  17572 strings out of 476533
