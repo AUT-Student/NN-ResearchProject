@@ -1,7 +1,7 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{فهرست اشکال}{ج}{section*.2}%
-\contentsline {chapter}{فهرست جداول}{د}{section*.3}%
+\contentsline {chapter}{فهرست اشکال}{د}{section*.2}%
+\contentsline {chapter}{فهرست جداول}{ه}{section*.3}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
@@ -10,25 +10,27 @@
 \contentsline {section}{\numberline {2-2}وظایف یادگیری ترتیبی ساختگی}{8}{section.2.2}%
 \contentsline {chapter}{\numberline {3}افزونه‌ها}{9}{chapter.3}%
 \contentsline {section}{\numberline {3-1}ماشین تورینگ عصبی تکاملی}{10}{section.3.1}%
-\contentsline {section}{\numberline {3-2}ماشین تورینگ عصبی ابر تکاملی}{11}{section.3.2}%
-\contentsline {section}{\numberline {3-3}ماشین تورینگ عصبی متوجه}{15}{section.3.3}%
+\contentsline {section}{\numberline {3-2}ماشین تورینگ عصبی ابر تکاملی}{12}{section.3.2}%
+\contentsline {subsection}{\numberline {3-2-1}ابر تکامل عصبی توپولوژی‌های تقویت‌کننده}{12}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3-2-2}بستر وظیفه رونوشت‌گیری}{13}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3-3}ماشین تورینگ عصبی متوجه}{16}{section.3.3}%
 \contentsline {section}{\numberline {3-4}ماشین تورینگ عصبی پویا}{17}{section.3.4}%
-\contentsline {subsection}{\numberline {3-4-1}معماری ماشین تورینگ عصبی پویا}{17}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3-4-2}مکانیسم آدرس‌دهی}{20}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3-4-3}آموزش}{21}{subsection.3.4.3}%
-\contentsline {chapter}{\numberline {4}کاربردهای واقعی}{23}{chapter.4}%
-\contentsline {section}{\numberline {4-1}تخمین عمر مفید باقی‌مانده}{24}{section.4.1}%
-\contentsline {section}{\numberline {4-2}دسته‌بندی}{24}{section.4.2}%
-\contentsline {section}{\numberline {4-3}ردیابی دانش}{26}{section.4.3}%
-\contentsline {section}{\numberline {4-4}پاسخ دوره‌ای به سوالات}{28}{section.4.4}%
-\contentsline {section}{\numberline {4-5}استنتاج زبان طبیعی}{28}{section.4.5}%
-\contentsline {chapter}{\numberline {5}نتایج}{29}{chapter.5}%
-\contentsline {section}{\numberline {5-1}تخمین عمر مفید باقی‌مانده}{30}{section.5.1}%
-\contentsline {section}{\numberline {5-2}دسته‌بندی}{30}{section.5.2}%
-\contentsline {section}{\numberline {5-3}ردیابی دانش}{31}{section.5.3}%
-\contentsline {section}{\numberline {5-4}پاسخ به سوالات دوره‌ای}{31}{section.5.4}%
-\contentsline {chapter}{\numberline {6}جمع‌بندی و نتیجه‌گیری}{33}{chapter.6}%
-\contentsline {chapter}{منابع و مراجع}{34}{appendix*.4}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{36}{appendix*.5}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{39}{appendix*.6}%
+\contentsline {subsection}{\numberline {3-4-1}معماری ماشین تورینگ عصبی پویا}{18}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3-4-2}مکانیسم آدرس‌دهی}{21}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3-4-3}آموزش}{22}{subsection.3.4.3}%
+\contentsline {chapter}{\numberline {4}کاربردهای واقعی}{24}{chapter.4}%
+\contentsline {section}{\numberline {4-1}تخمین عمر مفید باقی‌مانده}{25}{section.4.1}%
+\contentsline {section}{\numberline {4-2}دسته‌بندی}{25}{section.4.2}%
+\contentsline {section}{\numberline {4-3}ردیابی دانش}{27}{section.4.3}%
+\contentsline {section}{\numberline {4-4}پاسخ دوره‌ای به سوالات}{29}{section.4.4}%
+\contentsline {section}{\numberline {4-5}استنتاج زبان طبیعی}{29}{section.4.5}%
+\contentsline {chapter}{\numberline {5}نتایج}{30}{chapter.5}%
+\contentsline {section}{\numberline {5-1}تخمین عمر مفید باقی‌مانده}{31}{section.5.1}%
+\contentsline {section}{\numberline {5-2}دسته‌بندی}{31}{section.5.2}%
+\contentsline {section}{\numberline {5-3}ردیابی دانش}{32}{section.5.3}%
+\contentsline {section}{\numberline {5-4}پاسخ به سوالات دوره‌ای}{32}{section.5.4}%
+\contentsline {chapter}{\numberline {6}جمع‌بندی و نتیجه‌گیری}{34}{chapter.6}%
+\contentsline {chapter}{منابع و مراجع}{35}{appendix*.4}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{37}{appendix*.5}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{40}{appendix*.6}%
 \contentsfinish 
